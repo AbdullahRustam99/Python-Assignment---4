@@ -66,5 +66,5 @@ st.markdown("""<style >
 	    }   
 <style/>""",unsafe_allow_html=True)
 
-
+LIVE LINK ++++> https://bmi-calculatorrr-by-abdullah-rustam.streamlit.app/
 
